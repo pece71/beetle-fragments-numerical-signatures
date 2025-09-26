@@ -1,7 +1,7 @@
 %% signature_extract.m
 % Compute numerical signature descriptors from fragment images
 % Output: fragment_signatures.csv
-% Author: Ronnie O. Serfa Juan
+% Author: Ronnie Serfa Juan
 
 clear; clc;
 
